@@ -1,4 +1,4 @@
-## es-reports
+## es-report
 
 #### Description
 with this module you can make elasticsearch queries and create csv files with the results.
@@ -32,5 +32,5 @@ es_report.run(host, port, {
 
 ## Installation
 ```bash
-$ npm i es-reports
+$ npm i es-report
 ```
