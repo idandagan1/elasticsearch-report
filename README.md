@@ -1,4 +1,4 @@
-##es-reports
+## es-reports
 
 #### Description
 with this module you can make elasticsearch queries and create csv files with the results.
