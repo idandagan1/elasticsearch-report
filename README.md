@@ -32,5 +32,5 @@ es_report.run(host, port, {
 
 ## Installation
 ```bash
-$ npm install es-reports
+$ npm i es-reports
 ```
