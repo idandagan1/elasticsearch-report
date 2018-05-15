@@ -4,7 +4,7 @@
   "description": "use elasticsearch and create csv files",
   "main": "index.js",
   "dependencies": {
-    "elasticsearch": "^14.1.0"
+    "elasticsearch": "^15.0.0"
   },
   "devDependencies": {
     "eslint": "^4.17.0",
